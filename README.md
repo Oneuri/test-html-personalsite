@@ -1,2 +1,2 @@
 # test-html-personalsite
-basic personal website based on html
+Basic personal website based on html
